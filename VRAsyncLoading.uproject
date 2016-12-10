@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.13",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "VRAsyncLoading",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
